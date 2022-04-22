@@ -1,16 +1,16 @@
 {
-  "name": "",
+  "name": "HSL-HEX",
   "version": "0.0.1",
   "description": "This software is part of a micro-service architecture written for demonstration purposes.",
   "keywords": [],
   "homepage": "",
   "license": "GPL-3.0",
   "author": {
-    "name": "Gianni Bombelli (bombo82)",
-    "email": "bombo82@giannibombelli.it"
+    "name": "Luca Agostoni(Luca-Agostoni)",
+    "email": "luca.agostoni2000@gmail.com"
   },
   "contributors": [],
-  "main": "dist/microservice-template/src/HttpServer.ts",
+  "main": "/HSL-HEX/src/HttpServer.ts",
   "repository": {
     "type": "git",
     "url": ""
